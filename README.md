@@ -8,3 +8,8 @@ flowchart LR
   G@{ img: "https://static.thenounproject.com/png/drone-icon-1576937-512.png", label: "Görüntüleme / Arayüz", h:60 }
   classDef node fill:#f0f4ff,stroke:#003366,stroke-width:1px;
   class A,B,C,D,E,F,G node
+
+  
+https://www.freepik.com/icons/wireless-controller
+
+for creating icons
